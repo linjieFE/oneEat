@@ -27,7 +27,7 @@
 	"compileType": "miniprogram",
 	"libVersion": "2.11.0",
 	"appid": "wxf7403466434f62ee",
-	"projectname": "oneEat",
+	"projectname": "miniprogram",
 	"debugOptions": {
 		"hidedInDevtools": []
 	},
